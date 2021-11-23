@@ -1,5 +1,8 @@
 _repo: Mission-Work-among-the-Negroes-and-the-Indians-What-Is-Being-Accomplished-by-Means-of-the-Ann__66562
 _version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 66562-h/images/cover.jpg
 creator:
   author:
     agent_name: Catholic Church. Commission for Catholic Missions among the Colored
@@ -12,6 +15,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/53687
     wikipedia: https://en.wikipedia.org/wiki/Commission_for_the_Catholic_Missions_among_the_Colored_People_and_the_Indians
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/66562#Mission-Work-among-the-Negroes-and-the-Indians-What-Is-Being-Accomplished-by-Means-of-the-Ann_
 gutenberg_issued: '2021-10-18'
 identifiers:
   gutenberg: '66562'
